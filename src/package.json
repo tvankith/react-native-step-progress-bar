@@ -1,0 +1,27 @@
+{
+  "name": "react-native-step-progress-bar",
+  "version": "1.0.1",
+  "description": "React native component for step progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvankith/react-native-step-progress-bar.git"
+  },
+  "keywords": [
+    "react-native",
+    "step",
+    "progress",
+    "bar",
+    "step",
+    "progress"
+  ],
+  "author": "tvankith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvankith/react-native-step-progress-bar/issues"
+  },
+  "homepage": "https://github.com/tvankith/react-native-step-progress-bar#readme"
+}
