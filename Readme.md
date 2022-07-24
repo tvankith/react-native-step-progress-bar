@@ -2,11 +2,11 @@
 
 ## Usage
 ```
-yarn add react-native-progress-bar
+yarn add react-native-step-progress-bar
 ```
 or 
 ```
-npm install react-native-progress-bar
+npm install react-native-step-progress-bar
 ```
 
 ### import 
